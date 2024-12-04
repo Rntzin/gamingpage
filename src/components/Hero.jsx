@@ -110,6 +110,7 @@ const Hero = () => {
               containerClass="!bg-yellow-300 flex-center gap-1"
             />
           </div>
+          <div></div>
         </div>
       </div>
 
